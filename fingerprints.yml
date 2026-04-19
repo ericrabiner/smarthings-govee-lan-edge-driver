@@ -1,0 +1,8 @@
+deviceType: LAN
+fingerprints:
+  - id: "govee-h619c"
+    type: "LAN"
+    deviceLabel: "Govee Light Strip"
+    metadata:
+      manufacturer: "Govee"
+      model: "H619C"

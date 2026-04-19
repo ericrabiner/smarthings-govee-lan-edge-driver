@@ -1,0 +1,6 @@
+name: 'Govee LAN Light'
+packageKey: 'govee-lan-light'
+description: 'Controls Govee lights over LAN via UDP'
+permissions:
+  lan: {}
+  discovery: {}
